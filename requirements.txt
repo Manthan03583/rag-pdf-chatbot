@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain_chroma
+langchain_google_genai
+langchain_community
+pypdf
+python-dotenv
+chromadb
+sentence-transformers
